@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Ulyana\Desktop\Утёба\МДК 01.04 сист. прогр\LabFirst\LabFirst\Source.cpp(59,1): warning C4715: IsoscelesTriangle::calculateBisector: значение возвращается не при всех путях выполнения
+C:\Users\Ulyana\Desktop\Утёба\МДК 01.04 сист. прогр\LabFirst\LabFirst\Source.cpp(74,1): warning C4715: IsoscelesTriangle::calculateHeight: значение возвращается не при всех путях выполнения
+  LabFirst.vcxproj -> C:\Users\Ulyana\Desktop\Утёба\МДК 01.04 сист. прогр\LabFirst\x64\Debug\LabFirst.exe
